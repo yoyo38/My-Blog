@@ -17,7 +17,7 @@ import java.util.List;
 @Service
 public class RelationshipServiceImpl implements IRelationshipService {
     private static final Logger LOGGER = LoggerFactory.getLogger(RelationshipServiceImpl.class);
-
+    //test
     @Resource
     private RelationshipVoMapper relationshipVoMapper;
 
